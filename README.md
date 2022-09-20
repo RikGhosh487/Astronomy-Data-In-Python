@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 # Astronomical Data in Python - UT FRI
 *Astronomical Data in Python* is an introduction to tools and practices for working with astronomical data. This essentially is a bootstrapping mechanism for students wishing to work with these set of tools and practices for their projects in **CS 309: Geometry of Space (S)** and **CS 378: Geometry of Space (F)** courses. This introduction is a slightly modified version of the Allen Downing's [Introduction Toolset](https://www.google.com) of the same name.
 
