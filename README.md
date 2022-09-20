@@ -38,7 +38,7 @@ This notebook demonstrates the following steps:
 3. Writing a query and sending it to the server, and finally
 4. Downloading the response from the server as an Astropy `Table`.
 
-Look at [Notebook 1]() on Github
+Look at [Notebook 1](https://github.com/RikGhosh487/Astronomy-Data-In-Python/blob/main/01_query.ipynb) on Github
 
 Run [Notebook 1](https://colab.research.google.com/github/AllenDowney/AstronomicalData/blob/main/01_query.ipynb) on Colab
 
